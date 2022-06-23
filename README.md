@@ -34,7 +34,7 @@
 
 1. [RNN](https://fluttering-laborer-622.notion.site/1-RNN-bc891b9068a94ce4af511d0e8c38debf)
 2. [LSTM](https://fluttering-laborer-622.notion.site/2-LSTM-72e52d2a48b4480798e3b48728dcf775)
-3. Seq2Seq
+3. [Seq2Seq](https://fluttering-laborer-622.notion.site/3-Seq2Seq-57a8a4d9c6b34464b7f996b3bc4c7cf8)
 4. Attention
 5. Transformer
 6. BERT
